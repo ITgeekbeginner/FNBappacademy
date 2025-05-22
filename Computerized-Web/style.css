@@ -1,0 +1,16 @@
+h1{
+    font-family: sans-serif;
+    color: green;
+}
+p{
+    font-family: fantasy;
+    color: coral;
+}
+
+ul{
+    list-style-image: url('images/images/pointer-icon/pointer-icon.png') ;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
